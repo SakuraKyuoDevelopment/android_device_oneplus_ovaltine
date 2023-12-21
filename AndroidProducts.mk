@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ovaltine.mk
+    $(LOCAL_DIR)/lineage_udon.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ovaltine-user \
-    lineage_ovaltine-userdebug \
-    lineage_ovaltine-eng
+    lineage_udon-user \
+    lineage_udon-userdebug \
+    lineage_udon-eng

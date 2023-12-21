@@ -8,7 +8,7 @@
 
 set -e
 
-export DEVICE=ovaltine
+export DEVICE=udon
 export DEVICE_COMMON=sm8450-common
 export VENDOR=oneplus
 
